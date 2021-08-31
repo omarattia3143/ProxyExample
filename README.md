@@ -1,5 +1,5 @@
 # ProxyExample
-ProxyExample using twitchax / AspNetCore.Proxy
+ProxyExample using twitchax / AspNetCore.Proxy and .Net5
 
 a very simple example showing how to use AspNetCore.Proxy from twichax 
 
